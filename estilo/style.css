@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700;800&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+   background-image: url('../image/codigo_fonte.jpeg');
+    background-attachment: fixed;
+   height: 200px;
+   background-size: cover;
+   background-position: center center;
+   background-repeat: no-repeat;
+    
+}
+header > h1{
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px 2px #757eff;
+    position: relative;
+    top: 50%;
+    transform: translate(0,-50%);
+   text-align: center;
+   font-family:'Anton', sans-serif;
+   font-size: 2.5em;
+    
+}
+.title{
+    font-size: 1.4em;
+    padding:15px 0px;
+
+   
+}
+#part-1{
+    background-color: #757eff;
+ 
+    padding:10px 10px;
+    padding-bottom: 35px;
+}
+.text{
+    font-family: 'Nunito', sans-serif;
+   margin: auto;
+    max-width: 800px;
+    padding: 5px 10px;
+    color: white;
+}
+
+a{
+    color: white;
+    font-weight: 800;
+    text-decoration: none;  
+}
+a:hover{
+    text-decoration: underline;
+}
+#redes > ul > li{
+    margin: 0 50px;
+    font-size: 1.8em;
+}
+
+#redes > ul{
+   columns: 2;
+   width: 400px;
+   padding-bottom: 50px;
+   margin: auto;
+}
+#redes{
+    background-image: url('../image/imagem_pricinpal.jpeg');
+    background-attachment: fixed;
+    margin: auto;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: 'Nunito', sans-serif;
+    color: white;
+    width: 100%;
+}
+#social{
+    font-size: 1.8em; 
+    margin: auto;
+    width: 400px;
+    padding-top: 50px;
+    
+}
+#part-2{
+   
+    background-color: #757eff;
+    padding-bottom: 50px;
+  
+}
+span{
+    color: rgb(0, 0, 0);
+}
+footer{
+    font-family: 'Nunito', sans-serif;
+    padding: 10px;
+    text-align: center;
+    background-color: #757eff7e;
+}

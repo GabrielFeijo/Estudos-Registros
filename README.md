@@ -12,4 +12,3 @@
 
 - [Editor online Java](https://www.onlinegdb.com/online_java_compiler#)
 
-<img src="C:\Users\feijo\Desktop\workspace\Estudos-Registros\code.jpeg" alt="Código HTML" style="zoom: 150%;" />
